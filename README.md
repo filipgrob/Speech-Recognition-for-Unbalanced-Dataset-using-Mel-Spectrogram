@@ -1,1 +1,2 @@
 # Speech-Recognition-for-Unbalanced-Dataset-using-Mel-Spectrogram
+This code was developed for the exam of the class Data Science Lab: Process and Methods in collaboration with Matteo Bianco. The proposed assignment is a classification problem in the context of NLP (Natural Language Processing) and speech recognition. The goal is predicting an action-object pair (e.g. ’increase volume’) requested in an audio sample. The original task and dataset are attached to give more information about the task.
